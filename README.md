@@ -50,7 +50,6 @@ We utilised Mistral Instruct LLM.
     - final_recipes  
         - final_recipes.xlsx                          # parsed and processed dataset
         - validation_set.xlsx                         # sample query for IR methods
-        - tf, tf-idf, tf_norm, df, idf                # tf association matrix csv
 
 
     
